@@ -1,8 +1,10 @@
 
 
-# Mi presentación personal
+# CV no oficial
 ## Mónica Botero Bermúdez
-*Hoy es 21 de Enero del año 2020* :smile:
+*CV no oficial* :smile:
+Nacida en Bogotá. Médica general con experiencia de **0,0000001%** en _Computación estadística_.  
+Aprendiz de alemán y ukulele.
 
 **Mis cantantes favoritos son:**
 1. Jorge Drexler
