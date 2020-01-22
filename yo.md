@@ -2,6 +2,10 @@
 
 # Mi presentación personal
 ## Mónica Botero Bermúdez
-Hola a todos. Tengo 23 años, soy médica general y estoy cursando en este momento la  *maestría en Epidemiología Clínica y Bioestadística* en la **Pontificia Universidad Javeriana** :smile:
+*Hoy es 21 de Enero del año 2020* :smile:
+**Mis flores favoritas son:**
+1. Las margaritas
+3. Los girasoles
+2. Los pensamientos
 
 
