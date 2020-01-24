@@ -5,6 +5,7 @@
 *CV no oficial* :smile:
 Nacida en Bogotá. Médica general con experiencia de **0,0000001%** en _Computación estadística_.  
 Aprendiz de alemán y ukulele.
+Lastimosamente no tengo mascotas
 
 **Mis cantantes favoritos son:**
 1. Jorge Drexler
